@@ -38,7 +38,7 @@ See the linked repositories for installing `pybhpt` and `pylaplace`.
 
 ```bash
 git clone https://github.com/FranciscoDuque/Relativistic-Lindblad-Torques.git
-cd lindblad-torques-tutorial
+cd Relativistic-Lindblad-Torques
 jupyter notebook lindblad_torques_tutorial.ipynb
 ```
 
